@@ -1,4 +1,4 @@
-# Spending Insights Advisor with LLM
+# TransactBot
 
 This project is a Flask web application that allows users to analyze their credit card transactions and get insights on their spending habits using a Large Language Model (LLM). The application uses IBM's LLAMA-2 model to interpret user inquiries and provide relevant information from a SQLite database containing transaction records.
 
