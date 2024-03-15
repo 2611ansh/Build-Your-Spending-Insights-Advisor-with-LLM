@@ -14,7 +14,7 @@ This project is a Flask web application that allows users to analyze their credi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repo/Spending-Insights-Advisor-with-LLM.git
+   git clone https://github.com/2611ansh/Spending-Insights-Advisor-with-LLM.git
    ```
 
 2. Install the required dependencies:
